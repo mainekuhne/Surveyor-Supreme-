@@ -1,5 +1,4 @@
-# Surveyor-Supreme
-# Enhancing Survey Insight and Effectiveness 
+# Surveyor-Supreme - Enhancing Survey Insight and Effectiveness 
 
 ## Project Summary
 The objective is to develop an internal analytics tool that helps surveyors and research teams extract meaningful insights from survey responses and improve survey quality. Potential approaches include data visualisation, machine learning, unsupervised learning, and large language models (LLMs), though other methods may also be applied.
